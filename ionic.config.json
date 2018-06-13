@@ -1,0 +1,8 @@
+{
+  "name": "ocr",
+  "app_id": "c59222dd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
